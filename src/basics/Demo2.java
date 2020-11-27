@@ -8,5 +8,5 @@ public class Demo2 {
         System.out.println("Terminator parts 1, initial release: 1984");
         System.out.println("Terminator parts 2, initial release: 1991");
         System.out.println("Terminator parts 3, initial release: 2003");
-    }
+     }
 }
